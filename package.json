@@ -16,7 +16,7 @@
     "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "@carbon/web-components": "^2.14.1",
+    "@carbon/ibmdotcom-web-components": "^2.14.0-rc.0",
     "lit": "^3.2.0"
   }
 }
